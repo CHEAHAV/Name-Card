@@ -283,7 +283,7 @@
         animation-iteration-count: infinite;
     }
     .main .left{
-        width: 100%;
+        width: 98%;
         height:45%;
         float: left;
     }
@@ -291,5 +291,11 @@
         width: 100%;
         height: 45%;
         float: left;
+    }
+    .number h1{
+        margin: 0px;
+        padding: 0px;
+        font-size: 27px;
+        color:white;
     }
 }
